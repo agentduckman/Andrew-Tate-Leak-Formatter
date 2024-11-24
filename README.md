@@ -13,6 +13,6 @@ Simply extract the .json files from a channel into a folder and drop these files
 
 The UID replace takes AGES, sorry I'm not a software engineer.
 
-Have fun
-Quack the Planet
-Fuck Andrew Tate
+- Have fun
+- Quack the Planet
+- Fuck Andrew Tate
